@@ -1,4 +1,6 @@
 # Lab-1
 Basic Git
 
-This is my first Git branching exercise.
+This is my first Git branching exercise
+
+squash test.
